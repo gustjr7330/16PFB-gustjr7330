@@ -1,9 +1,12 @@
+name = 'TEETH'
+
+
 print ("I had a little lamb.")
-print ("Its fleece was white as %s." % 'TEETH')
+print ("Its fleece was white as %s." % name)
 print ("And everywhere that Mary went.")
 print ("." * 10  )
 
-end1 = "C"
+end1 = 'C'
 end2 = "h"
 end3 = "e"
 end4 = "e"

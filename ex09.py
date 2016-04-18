@@ -1,5 +1,6 @@
+#-*-coding:cp949
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan/Feb/Mar/Apr/May/Jun/Jul/Aug"
+months = "Jan/Feb/Mar/Apr/May/Jun/Jul/Aug" # 안녕시발년ㄴ아
 
 print "Here are the days: ", days
 print "Here are the months: ", months

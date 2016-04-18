@@ -9,7 +9,6 @@ teeth = 'White'
 hair = 'Brown'
 
 print "Let's talk about %s." % name
-print "He's %d centimeters tall." % height_cm
 print "He's %d inches tall." % height_inch
 print "He's %d pounds heavy." % weight_kg
 print "Actually that's not too heavy."

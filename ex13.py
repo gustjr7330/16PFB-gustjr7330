@@ -1,3 +1,4 @@
+#-*-coding:cp949
 from sys import argv
 
 print("argv = " + str(argv))
